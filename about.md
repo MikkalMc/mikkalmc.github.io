@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Mikkal, pronounced *"Michael"*.
+Software, startups, dogs, Brazilian Jiu Jitsu. 
+My opinions nothing more than opinions. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently clawing my way through my computer science degree, working part time as a SWE. Detailing my journey through writing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mikkal.dev@gmail.com](mailto:mikkal.dev@gmail.com)
